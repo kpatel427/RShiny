@@ -1,5 +1,5 @@
-require(shiny)
-require(shinydashboard)
+library(shiny)
+library(shinydashboard)
 
 ui <- dashboardPage(
   header = dashboardHeader(title = 'Menu'),

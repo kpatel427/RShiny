@@ -1,4 +1,5 @@
 library(shiny)
+library(shinyWidgets)
 
 
 logo <-  tags$a(href = "https://www.google.com", target = "_blank",

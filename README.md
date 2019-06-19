@@ -9,6 +9,9 @@
 ## Descriptipn of scripts 
 | script name | Description |
 |-------------|-------------|
-|1. conditionalPanel.R | sidebar menu items shown only when conditions are met.|
+|1. conditionalPanel.R | sidebar menu items shown only when conditions are met|
 |2. dashboard_with_tabs.R | customized dashboard to have tabs instead of sidebar menu items|
 |3. logo.R | add logo to header section of your dashboard|
+|4. resetButton.R | add reset button to unselect rows selected in a data table|
+|5. startupModal.R | make a floating box with information show up when app is launched|
+|6. valueBox.R| value boxes along with their CSS customization like color, height and adding buttons within the valueBox|

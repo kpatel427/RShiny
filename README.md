@@ -7,6 +7,8 @@
 
 
 ## Descriptipn of scripts 
-1. conditionalPanel.R | sidebar menu items shown only when conditions are met.
-2. dashboard_with_tabs.R | customized dashboard to have tabs instead of sidebar menu items
-3. logo.R | add logo to header section of your dashboard
+| script name | Description |
+|-------------|-------------|
+|1. conditionalPanel.R | sidebar menu items shown only when conditions are met.|
+|2. dashboard_with_tabs.R | customized dashboard to have tabs instead of sidebar menu items|
+|3. logo.R | add logo to header section of your dashboard|

@@ -10,6 +10,7 @@
 | script name | Description |
 |-------------|-------------|
 |conditionalPanel.R| sidebar menu items shown only when conditions are met|
+| introjs.R| uses package intro.js to create a step by step tutorial for the app |
 |shinyDashhboard-with-tabs.R| customized dashboard to have tabs instead of sidebar menu items|
 |logo.R| add logo to header section of your dashboard|
 |resetButton.R| add reset button to unselect rows in a data table|

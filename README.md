@@ -16,3 +16,4 @@
 |resetButton.R| add reset button to unselect rows in a data table|
 |startupModal.R| make a floating box with information show up when app is launched|
 |valueBox.R| value boxes along with their CSS customizations like changing color, height and adding buttons within the valueBox|
+|app.R| using shinyauthr package to generate different views based on user authorization|
